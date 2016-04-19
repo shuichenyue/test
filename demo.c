@@ -3,5 +3,6 @@
 #include <math.h>
 int main()
 {
+  printf("Hell Word!");
   return 2;
 }
